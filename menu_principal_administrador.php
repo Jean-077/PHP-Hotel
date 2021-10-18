@@ -24,6 +24,8 @@ if($_SESSION['code']!="Holamundo"){
 			<a class="nav" href="nuevo_empleado.php">Registrar Usuario</a>
 			<a class="nav" href="empleados.php">Usuarios</a>
 			<a class="nav" href="checkout.php">Check Out</a>
+			<a class="nav" href="habitaciones.php">Habitaciones</a>
+			<a class="nav" href="nueva_habitacion.php">Registrar Habitacion</a>
 			<a class="nav" href="reserva.php">Nueva Reserva</a>
 			<a class="nav" href="desconectar_sesion.php">Cerrar Sesión</a>
 		</nav>
